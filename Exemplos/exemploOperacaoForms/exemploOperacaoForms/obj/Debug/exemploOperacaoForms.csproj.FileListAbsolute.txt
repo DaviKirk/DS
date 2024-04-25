@@ -1,0 +1,8 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploOperacaoForms\exemploOperacaoForms\obj\Debug\exemploOperacaoForms.Form1.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploOperacaoForms\exemploOperacaoForms\obj\Debug\exemploOperacaoForms.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploOperacaoForms\exemploOperacaoForms\obj\Debug\exemploOperacaoForms.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploOperacaoForms\exemploOperacaoForms\bin\Debug\exemploOperacaoForms.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploOperacaoForms\exemploOperacaoForms\bin\Debug\exemploOperacaoForms.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploOperacaoForms\exemploOperacaoForms\bin\Debug\exemploOperacaoForms.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploOperacaoForms\exemploOperacaoForms\obj\Debug\exemploOperacaoForms.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploOperacaoForms\exemploOperacaoForms\obj\Debug\exemploOperacaoForms.pdb

@@ -1,0 +1,6 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploRevisão\exemploRevisão\bin\Debug\exemploRevisão.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploRevisão\exemploRevisão\bin\Debug\exemploRevisão.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploRevisão\exemploRevisão\bin\Debug\exemploRevisão.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploRevisão\exemploRevisão\obj\Debug\exemploRevisão.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploRevisão\exemploRevisão\obj\Debug\exemploRevisão.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemploRevisão\exemploRevisão\obj\Debug\exemploRevisão.pdb

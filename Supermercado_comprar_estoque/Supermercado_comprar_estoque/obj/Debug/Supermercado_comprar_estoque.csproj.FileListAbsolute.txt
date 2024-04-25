@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Supermercado_comprar_estoque\Supermercado_comprar_estoque\bin\Debug\Supermercado_comprar_estoque.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Supermercado_comprar_estoque\Supermercado_comprar_estoque\bin\Debug\Supermercado_comprar_estoque.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Supermercado_comprar_estoque\Supermercado_comprar_estoque\bin\Debug\Supermercado_comprar_estoque.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Supermercado_comprar_estoque\Supermercado_comprar_estoque\obj\Debug\Supermercado_comprar_estoque.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Supermercado_comprar_estoque\Supermercado_comprar_estoque\obj\Debug\Supermercado_comprar_estoque.Form1.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Supermercado_comprar_estoque\Supermercado_comprar_estoque\obj\Debug\Supermercado_comprar_estoque.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Supermercado_comprar_estoque\Supermercado_comprar_estoque\obj\Debug\Supermercado_comprar_estoque.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Supermercado_comprar_estoque\Supermercado_comprar_estoque\obj\Debug\Supermercado_comprar_estoque.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Supermercado_comprar_estoque\Supermercado_comprar_estoque\obj\Debug\Supermercado_comprar_estoque.pdb

@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_orientação_obj\exemplo_orientação_obj\bin\Debug\exemplo_orientação_obj.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_orientação_obj\exemplo_orientação_obj\bin\Debug\exemplo_orientação_obj.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_orientação_obj\exemplo_orientação_obj\bin\Debug\exemplo_orientação_obj.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_orientação_obj\exemplo_orientação_obj\obj\Debug\exemplo_orientação_obj.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_orientação_obj\exemplo_orientação_obj\obj\Debug\exemplo_orientação_obj.Form1.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_orientação_obj\exemplo_orientação_obj\obj\Debug\exemplo_orientação_obj.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_orientação_obj\exemplo_orientação_obj\obj\Debug\exemplo_orientação_obj.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_orientação_obj\exemplo_orientação_obj\obj\Debug\exemplo_orientação_obj.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_orientação_obj\exemplo_orientação_obj\obj\Debug\exemplo_orientação_obj.pdb

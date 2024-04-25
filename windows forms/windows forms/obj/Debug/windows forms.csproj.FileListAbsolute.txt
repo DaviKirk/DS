@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\windows forms\windows forms\bin\Debug\windows forms.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\windows forms\windows forms\bin\Debug\windows forms.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\windows forms\windows forms\bin\Debug\windows forms.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\windows forms\windows forms\obj\Debug\windows forms.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\windows forms\windows forms\obj\Debug\windows_forms.Form1.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\windows forms\windows forms\obj\Debug\windows_forms.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\windows forms\windows forms\obj\Debug\windows forms.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\windows forms\windows forms\obj\Debug\windows forms.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\windows forms\windows forms\obj\Debug\windows forms.pdb

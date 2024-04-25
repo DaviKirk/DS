@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Media-Final-Orientado-Obj\Media-Final-Orientado-Obj\bin\Debug\Media-Final-Orientado-Obj.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Media-Final-Orientado-Obj\Media-Final-Orientado-Obj\bin\Debug\Media-Final-Orientado-Obj.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Media-Final-Orientado-Obj\Media-Final-Orientado-Obj\bin\Debug\Media-Final-Orientado-Obj.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Media-Final-Orientado-Obj\Media-Final-Orientado-Obj\obj\Debug\Media-Final-Orientado-Obj.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Media-Final-Orientado-Obj\Media-Final-Orientado-Obj\obj\Debug\Media_Final_Orientado_Obj.Form1.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Media-Final-Orientado-Obj\Media-Final-Orientado-Obj\obj\Debug\Media_Final_Orientado_Obj.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Media-Final-Orientado-Obj\Media-Final-Orientado-Obj\obj\Debug\Media-Final-Orientado-Obj.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Media-Final-Orientado-Obj\Media-Final-Orientado-Obj\obj\Debug\Media-Final-Orientado-Obj.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\Media-Final-Orientado-Obj\Media-Final-Orientado-Obj\obj\Debug\Media-Final-Orientado-Obj.pdb

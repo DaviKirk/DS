@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_herança\exemplo_herança\bin\Debug\exemplo_herança.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_herança\exemplo_herança\bin\Debug\exemplo_herança.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_herança\exemplo_herança\bin\Debug\exemplo_herança.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_herança\exemplo_herança\obj\Debug\exemplo_herança.Form1.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_herança\exemplo_herança\obj\Debug\exemplo_herança.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_herança\exemplo_herança\obj\Debug\exemplo_herança.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_herança\exemplo_herança\obj\Debug\exemplo_herança.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_herança\exemplo_herança\obj\Debug\exemplo_herança.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo_herança\exemplo_herança\obj\Debug\exemplo_herança.csprojResolveAssemblyReference.cache

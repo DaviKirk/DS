@@ -1,0 +1,12 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicio_2_windosForms\exercicio_2_windosForms\bin\Debug\exercicio_2_windosForms.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicio_2_windosForms\exercicio_2_windosForms\bin\Debug\exercicio_2_windosForms.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicio_2_windosForms\exercicio_2_windosForms\bin\Debug\exercicio_2_windosForms.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicio_2_windosForms\exercicio_2_windosForms\obj\Debug\exercicio_2_windosForms.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicio_2_windosForms\exercicio_2_windosForms\obj\Debug\exercicio_2_windosForms.Form1.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicio_2_windosForms\exercicio_2_windosForms\obj\Debug\exercicio_2_windosForms.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicio_2_windosForms\exercicio_2_windosForms\obj\Debug\exercicio_2_windosForms.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicio_2_windosForms\exercicio_2_windosForms\obj\Debug\exercicio_2_windosForms.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicio_2_windosForms\exercicio_2_windosForms\obj\Debug\exercicio_2_windosForms.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicios forms\exercicio_2_windosForms\exercicio_2_windosForms\bin\Debug\exercicio_2_windosForms.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicios forms\exercicio_2_windosForms\exercicio_2_windosForms\obj\Debug\exercicio_2_windosForms.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exercicios forms\exercicio_2_windosForms\exercicio_2_windosForms\obj\Debug\exercicio_2_windosForms.pdb

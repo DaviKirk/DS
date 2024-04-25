@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\imc atividade 12.03.24\imc atividade 12.03.24\bin\Debug\imc atividade 12.03.24.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\imc atividade 12.03.24\imc atividade 12.03.24\bin\Debug\imc atividade 12.03.24.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\imc atividade 12.03.24\imc atividade 12.03.24\bin\Debug\imc atividade 12.03.24.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\imc atividade 12.03.24\imc atividade 12.03.24\obj\Debug\imc atividade 12.03.24.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\imc atividade 12.03.24\imc atividade 12.03.24\obj\Debug\imc_atividade_12._03._24.Form1.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\imc atividade 12.03.24\imc atividade 12.03.24\obj\Debug\imc_atividade_12._03._24.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\imc atividade 12.03.24\imc atividade 12.03.24\obj\Debug\imc atividade 12.03.24.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\imc atividade 12.03.24\imc atividade 12.03.24\obj\Debug\imc atividade 12.03.24.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\imc atividade 12.03.24\imc atividade 12.03.24\obj\Debug\imc atividade 12.03.24.pdb

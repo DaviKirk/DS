@@ -1,0 +1,4 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-herança-funcionando\exemplo-herança-funcionando\bin\Debug\exemplo-herança-funcionando.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-herança-funcionando\exemplo-herança-funcionando\obj\Debug\exemplo_herança.Form1.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-herança-funcionando\exemplo-herança-funcionando\obj\Debug\exemplo_herança_funcionando.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-herança-funcionando\exemplo-herança-funcionando\obj\Debug\exemplo-herança-funcionando.csproj.GenerateResource.Cache
