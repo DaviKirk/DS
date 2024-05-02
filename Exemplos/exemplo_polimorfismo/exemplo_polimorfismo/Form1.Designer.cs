@@ -109,6 +109,7 @@
             this.rd_assalariado.TabStop = true;
             this.rd_assalariado.Text = "Assalariado";
             this.rd_assalariado.UseVisualStyleBackColor = true;
+            this.rd_assalariado.CheckedChanged += new System.EventHandler(this.rd_assalariado_CheckedChanged);
             // 
             // rd_horista
             // 

@@ -55,5 +55,9 @@ namespace exemplo_polimorfismo
 
         }
 
+        private void rd_assalariado_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
