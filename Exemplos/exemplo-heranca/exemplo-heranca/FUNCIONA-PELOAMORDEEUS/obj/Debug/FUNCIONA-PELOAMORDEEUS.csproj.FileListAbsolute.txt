@@ -1,0 +1,11 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\FUNCIONA-PELOAMORDEEUS\FUNCIONA-PELOAMORDEEUS\bin\Debug\FUNCIONA-PELOAMORDEEUS.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\FUNCIONA-PELOAMORDEEUS\FUNCIONA-PELOAMORDEEUS\bin\Debug\FUNCIONA-PELOAMORDEEUS.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\FUNCIONA-PELOAMORDEEUS\FUNCIONA-PELOAMORDEEUS\bin\Debug\FUNCIONA-PELOAMORDEEUS.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\FUNCIONA-PELOAMORDEEUS\FUNCIONA-PELOAMORDEEUS\obj\Debug\FUNCIONA_PELOAMORDEEUS.Form1.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\FUNCIONA-PELOAMORDEEUS\FUNCIONA-PELOAMORDEEUS\obj\Debug\FUNCIONA_PELOAMORDEEUS.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\FUNCIONA-PELOAMORDEEUS\FUNCIONA-PELOAMORDEEUS\obj\Debug\FUNCIONA-PELOAMORDEEUS.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\FUNCIONA-PELOAMORDEEUS\FUNCIONA-PELOAMORDEEUS\obj\Debug\FUNCIONA-PELOAMORDEEUS.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\FUNCIONA-PELOAMORDEEUS\FUNCIONA-PELOAMORDEEUS\obj\Debug\FUNCIONA-PELOAMORDEEUS.pdb
+C:\Users\ds-etim-2\Desktop\exemplo-heranca\exemplo-heranca\FUNCIONA-PELOAMORDEEUS\bin\Debug\FUNCIONA-PELOAMORDEEUS.exe.config
+C:\Users\ds-etim-2\Desktop\exemplo-heranca\exemplo-heranca\FUNCIONA-PELOAMORDEEUS\obj\Debug\FUNCIONA-PELOAMORDEEUS.exe
+C:\Users\ds-etim-2\Desktop\exemplo-heranca\exemplo-heranca\FUNCIONA-PELOAMORDEEUS\obj\Debug\FUNCIONA-PELOAMORDEEUS.pdb
